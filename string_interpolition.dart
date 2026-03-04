@@ -9,7 +9,6 @@ void main() {
   int age = 23;
   String Stringage = age.toString();
   double tem = double.parse(temperature);
-
   String coding = "I am Flutter developer and i am $Stringage old";
 
   String fullstack = coding.replaceAll('Flutter', 'Fullstack');

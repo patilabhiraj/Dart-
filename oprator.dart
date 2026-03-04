@@ -4,5 +4,4 @@ void main() {
 
   double temCelseius = (tempFaherenheit - 32) / 1.8;
   print("${tempFaherenheit} F = ${temCelseius.toInt()}c");
-  ;
 }
